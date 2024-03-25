@@ -2,10 +2,10 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/simran/Documents/Projects/Reminder/Reminder/Remind+CoreDataClass.swift">
+      location = "group:Remind+CoreDataClass.swift">
    </FileRef>
    <FileRef
-      location = "group:/Users/simran/Documents/Projects/Reminder/Reminder/Remind+CoreDataProperties.swift">
+      location = "group:/Users/simran/Documents/Projects/cleanRepo/ReminderApp/Reminder/Remind+CoreDataProperties.swift">
    </FileRef>
    <FileRef
       location = "group:Reminder.xcodeproj">
